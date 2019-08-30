@@ -1,0 +1,406 @@
+No.,Title,Link
+1,"A branching process for homology distribution-based inference of polyploidy, speciation and loss",http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0153-8
+2,A multi-labeled tree dissimilarity measure for comparing “clonal trees” of tumor progression,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0152-9
+3,A cubic algorithm for the generalized rank median of three genomes,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0150-y
+4,A general framework for genome rearrangement with biological constraints,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0149-4
+5,Statistically consistent divide-and-conquer pipelines for phylogeny estimation using NJMerge,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0151-x
+6,Prefix-free parsing for building big BWTs,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0148-5
+7,Linear time minimum segmentation enables scalable founder reconstruction,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0147-6
+8,An average-case sublinear forward algorithm for the haploid Li and Stephens model,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0144-9
+9,Differentially mutated subnetworks discovery,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0146-7
+10,Repairing Boolean logical models from time-series data using Answer Set Programming,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0145-8
+11,Kermit: linkage map guided long read assembly,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0143-x
+12,Reconciling multiple genes trees via segmental duplications and losses,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0139-6
+13,External memory BWT and LCP computation for sequence collections with applications,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0140-0
+14,Connectivity problems on heterogeneous graphs,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0141-z
+15,Semi-nonparametric modeling of topological domain formation from epigenetic data,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0142-y
+16,SNPs detection by eBWT positional clustering,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0137-8
+17,Constrained incremental tree building: new absolute fast converging phylogeny estimation methods with improved scalability and accuracy,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0136-9
+18,Automated partial atomic charge assignment for drug-like molecules: a fast knapsack approach,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0138-7
+19,Regmex: a statistical tool for exploring motifs in ranked sequence lists from genomics experiments,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0135-2
+20,Superbubbles revisited,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0134-3
+21,Coordinate systems for supergenomes,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0133-4
+22,Improved de novo peptide sequencing using LC retention time information,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0132-5
+23,Sorting signed circular permutations by super short operations,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0131-6
+24,Split-inducing indels in phylogenomic analysis,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0130-7
+25,Locus-aware decomposition of gene trees with respect to polytomous species trees,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0128-1
+26,A fast and accurate enumeration-based algorithm for haplotyping a triploid individual,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0129-0
+27,Finding local genome rearrangements,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0127-2
+28,FSH: fast spaced seed hashing exploiting adjacent hashes,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0125-4
+29,Outlier detection in BLAST hits,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0126-3
+30,OCTAL: Optimal Completion of gene trees in polynomial time,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0124-5
+31,Derivative-free neural network for optimizing the scoring functions associated with dynamic programming of pairwise-profile alignment,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0123-6
+32,Fast phylogenetic inference from typing data,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0119-7
+33,A safe and complete algorithm for metagenomic assembly,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0122-7
+34,Time-consistent reconciliation maps and forbidden time travel,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0121-8
+35,Gene tree parsimony for incomplete gene trees: addressing true biological loss,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0120-1
+36,Phylogeny reconstruction based on the length distribution of k-mismatch common substrings,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0118-8
+37,Generalized enhanced suffix array construction in external memory,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0117-9
+38,HAlign-II: efficient ultra-large multiple sequence alignment and phylogenetic tree reconstruction with distributed and parallel computing,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0116-x
+39,Algorithms for matching partially labelled sequence graphs,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0115-y
+40,"Biologically feasible gene trees, reconciliation maps and informative triples",http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0114-z
+41,Partially local three-way alignments and the sequence signatures of mitochondrial genome rearrangements,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0113-0
+42,A hybrid parameter estimation algorithm for beta mixtures and applications to methylation state classification,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0112-1
+43,ASP-based method for the enumeration of attractors in non-deterministic synchronous and asynchronous multi-valued networks,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0111-2
+44,Identification of bifurcation transitions in biological regulatory networks using Answer-Set Programming,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0110-3
+45,A graph extension of the positional Burrows–Wheeler transform and its applications,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0109-9
+46,Isometric gene tree reconciliation revisited,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0108-x
+47,Algorithms for computing the double cut and join distance on both gene order and intergenic sizes,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0107-y
+48,StreAM-\(T_g\): algorithms for analyzing coarse grained RNA dynamics based on Markov models of connectivity-graphs,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0105-0
+49,The gene family-free median of three,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0106-z
+50,Complexity and algorithms for copy-number evolution problems,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0103-2
+51,"A branching process for homology distribution-based inference of polyploidy, speciation and loss",http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0153-8
+52,A multi-labeled tree dissimilarity measure for comparing “clonal trees” of tumor progression,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0152-9
+53,A cubic algorithm for the generalized rank median of three genomes,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0150-y
+54,A general framework for genome rearrangement with biological constraints,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0149-4
+55,Statistically consistent divide-and-conquer pipelines for phylogeny estimation using NJMerge,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0151-x
+56,Prefix-free parsing for building big BWTs,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0148-5
+57,Linear time minimum segmentation enables scalable founder reconstruction,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0147-6
+58,An average-case sublinear forward algorithm for the haploid Li and Stephens model,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0144-9
+59,Differentially mutated subnetworks discovery,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0146-7
+60,Repairing Boolean logical models from time-series data using Answer Set Programming,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0145-8
+61,Kermit: linkage map guided long read assembly,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0143-x
+62,Reconciling multiple genes trees via segmental duplications and losses,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0139-6
+63,External memory BWT and LCP computation for sequence collections with applications,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0140-0
+64,Connectivity problems on heterogeneous graphs,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0141-z
+65,Semi-nonparametric modeling of topological domain formation from epigenetic data,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0142-y
+66,SNPs detection by eBWT positional clustering,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0137-8
+67,Constrained incremental tree building: new absolute fast converging phylogeny estimation methods with improved scalability and accuracy,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0136-9
+68,Automated partial atomic charge assignment for drug-like molecules: a fast knapsack approach,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-019-0138-7
+69,Regmex: a statistical tool for exploring motifs in ranked sequence lists from genomics experiments,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0135-2
+70,Superbubbles revisited,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0134-3
+71,Coordinate systems for supergenomes,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0133-4
+72,Improved de novo peptide sequencing using LC retention time information,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0132-5
+73,Sorting signed circular permutations by super short operations,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0131-6
+74,Split-inducing indels in phylogenomic analysis,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0130-7
+75,Locus-aware decomposition of gene trees with respect to polytomous species trees,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0128-1
+76,A fast and accurate enumeration-based algorithm for haplotyping a triploid individual,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0129-0
+77,Finding local genome rearrangements,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0127-2
+78,FSH: fast spaced seed hashing exploiting adjacent hashes,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0125-4
+79,Outlier detection in BLAST hits,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0126-3
+80,OCTAL: Optimal Completion of gene trees in polynomial time,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0124-5
+81,Derivative-free neural network for optimizing the scoring functions associated with dynamic programming of pairwise-profile alignment,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0123-6
+82,Fast phylogenetic inference from typing data,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0119-7
+83,A safe and complete algorithm for metagenomic assembly,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0122-7
+84,Time-consistent reconciliation maps and forbidden time travel,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-018-0121-8
+85,Gene tree parsimony for incomplete gene trees: addressing true biological loss,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0120-1
+86,Phylogeny reconstruction based on the length distribution of k-mismatch common substrings,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0118-8
+87,Generalized enhanced suffix array construction in external memory,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0117-9
+88,HAlign-II: efficient ultra-large multiple sequence alignment and phylogenetic tree reconstruction with distributed and parallel computing,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0116-x
+89,Algorithms for matching partially labelled sequence graphs,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0115-y
+90,"Biologically feasible gene trees, reconciliation maps and informative triples",http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0114-z
+91,Partially local three-way alignments and the sequence signatures of mitochondrial genome rearrangements,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0113-0
+92,A hybrid parameter estimation algorithm for beta mixtures and applications to methylation state classification,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0112-1
+93,ASP-based method for the enumeration of attractors in non-deterministic synchronous and asynchronous multi-valued networks,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0111-2
+94,Identification of bifurcation transitions in biological regulatory networks using Answer-Set Programming,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0110-3
+95,A graph extension of the positional Burrows–Wheeler transform and its applications,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0109-9
+96,Isometric gene tree reconciliation revisited,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0108-x
+97,Algorithms for computing the double cut and join distance on both gene order and intergenic sizes,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0107-y
+98,StreAM-\(T_g\): algorithms for analyzing coarse grained RNA dynamics based on Markov models of connectivity-graphs,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0105-0
+99,The gene family-free median of three,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0106-z
+100,Complexity and algorithms for copy-number evolution problems,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0103-2
+101,A better scoring model for de novo peptide sequencing: the symmetric difference between explained and measured masses,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0104-1
+102,Core column prediction for protein multiple sequence alignments,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0102-3
+103,Aligning coding sequences with frameshift extension penalties,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0101-4
+104,Gerbil: a fast and memory-efficient k-mer counter with GPU-support,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0097-9
+105,The feasibility of genome-scale biological network inference using Graphics Processing Units,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0100-5
+106,An efficient algorithm for testing the compatibility of phylogenies with nested taxa,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0099-7
+107,On the computational complexity of the maximum parsimony reconciliation problem in the duplication-loss-coalescence model,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0098-8
+108,"On avoided words, absent words, and their application to biological sequence analysis",http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0094-z
+109,Approximating the correction of weighted and unweighted orthology and paralogy relations,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0096-x
+110,Approximating the DCJ distance of balanced genomes in linear time,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0095-y
+111,Playing hide and seek with repeats in local and global de novo transcriptome assembly of short RNA-seq reads,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0091-2
+112,Best hits of 11110110111: model-free selection and parameter-free sensitivity calculation of spaced seeds,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-017-0092-1
+113,Erratum to: A representation of a compressed de Bruijn graph for pan-genome analysis that enables search,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0090-8
+114,An efficient algorithm for protein structure comparison using elastic shape analysis,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0089-1
+115,Analysis of gene copy number changes in tumor phylogenetics,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0088-2
+116,Enumeration of minimal stoichiometric precursor sets in metabolic networks,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0087-3
+117,Using a constraint-based regression method for relative quantification of somatic mutations in pyrosequencing signals: a case for NRAS analysis,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0086-4
+118,BiC2PAM: constraint-guided biclustering for biological data analysis with domain knowledge,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0085-5
+119,An improved Four-Russians method and sparsified Four-Russians algorithm for RNA folding,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0081-9
+120,Erratum to: Circular sequence comparison: algorithms and applications,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0084-6
+121,A representation of a compressed de Bruijn graph for pan-genome analysis that enables search,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0083-7
+122,A Bayesian inference method for the analysis of transcriptional regulatory networks in metagenomic data,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0082-8
+123,An effective sequence-alignment-free superpositioning of pairwise or multiple structures with missing data,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0079-3
+124,An algorithm to parse segment packing in predicted protein contact maps,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0080-x
+125,"Identification of donor splice sites using support vector machine: a computational approach based on positional, compositional and dependency features",http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0078-4
+126,Towards sub-quadratic time and space complexity solutions for the dated tree reconciliation problem,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0077-5
+127,BicNET: Flexible module discovery in large-scale biological networks using biclustering,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0074-8
+128,Models and algorithms for genome rearrangement with positional constraints,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0065-9
+129,Circular sequence comparison: algorithms and applications,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0076-6
+130,An exact algorithm for finding cancer driver somatic genome alterations: the weighted mutually exclusive maximum set cover problem,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0073-9
+131,Jabba: hybrid error correction for long sequencing reads,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0075-7
+132,Bitpacking techniques for indexing genomes: II. Enhanced suffix arrays,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0068-6
+133,RNA folding with hard and soft constraints,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0070-z
+134,Sparse RNA folding revisited: space-efficient minimum free energy structure prediction,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0071-y
+135,MissMax: alignment-free sequence comparison with mismatches through filtering and heuristics,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0072-x
+136,Bitpacking techniques for indexing genomes: I. Hash tables,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0069-5
+137,The link between orthology relations and gene trees: a correction perspective,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0067-7
+138,Bloom Filter Trie: an alignment-free and reference-free data structure for pan-genome storage,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0066-8
+139,Estimation of genetic diversity in viral populations from next generation sequencing data with extremely deep coverage,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0064-x
+140,The paralog-to-contig assignment problem: high quality gene models from fragmented assemblies,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-016-0063-y
+141,"Interpretation and approximation tools for big, dense Markov chain transition matrices in population genetics",http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0061-5
+142,HIA: a genome mapper using hybrid index-based sequence alignment,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0062-4
+143,Designing minimal microbial strains of desired functionality using a genetic algorithm,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0060-6
+144,A reconstruction problem for a class of phylogenetic networks with lateral gene transfers,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0059-z
+145,A polynomial time algorithm for computing the area under a GDT curve,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0058-0
+146,Instability in progressive multiple sequence alignment algorithms,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0057-1
+147,Erratum to: Inferring interaction type in gene regulatory networks using co-expression data,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0055-3
+148,A multiobjective approach for identifying protein complexes and studying their association in multiple disorders,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0056-2
+149,Inferring interaction type in gene regulatory networks using co-expression data,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0054-4
+150,Pareto optimization in algebraic dynamic programming,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0051-7
+151,Detecting conserved protein complexes using a dividing-and-matching algorithm and unequally lenient criteria for network comparison,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0053-5
+152,A polynomial delay algorithm for the enumeration of bubbles with length constraints in directed graphs,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0046-4
+153,Fair evaluation of global network aligners,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0050-8
+154,GAML: genome assembly by maximum likelihood,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0052-6
+155,An online peak extraction algorithm for ion mobility spectrometry data,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0045-5
+156,A graph modification approach for finding core–periphery structures in protein interaction networks,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0043-7
+157,Algorithms for detecting and analysing autocatalytic sets,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0042-8
+158,A novel method for identifying disease associated protein complexes based on functional similarity protein complex networks,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0044-6
+159,On the family-free DCJ distance and similarity,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0041-9
+160,Sorting signed permutations by short operations,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0040-x
+161,A virtual pebble game to ensemble average graph rigidity,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0039-3
+162,A simple data-adaptive probabilistic variant calling model,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0037-5
+163,Protein docking with predicted constraints,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0036-6
+164,MoDock: A multi-objective strategy improves the accuracy for molecular docking,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0034-8
+165,Algorithmic approaches to protein-protein interaction site prediction,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0033-9
+166,An integrative approach for a network based meta-analysis of viral RNAi screens,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0035-7
+167,Estimating evolutionary distances between genomic sequences from spaced-word matches,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-015-0032-x
+168,Clustering of reads with alignment-free measures and quality values,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0029-x
+169,EUCALYPT: efficient tree reconciliation enumerator,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0031-3
+170,A two-phase binning algorithm using l-mer frequency on groups of non-overlapping reads,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0030-4
+171,Double and multiple knockout simulations for genome-scale metabolic network reconstructions,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0028-y
+172,On the number of genomic pacemakers: a geometric approach,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0026-0
+173,BicPAM: Pattern-based biclustering for biomedical data analysis,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0027-z
+174,Analysis of pattern overlaps and exact computation of P-values of pattern occurrences numbers: case of Hidden Markov Models,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0025-1
+175,A constraint solving approach to model reduction by tropical equilibration,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0024-2
+176,Atom mapping with constraint programming,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0023-3
+177,A priori assessment of data quality in molecular phylogenetics,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0022-4
+178,Graph-distance distribution of the Boltzmann ensemble of RNA secondary structures,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-19
+179,Optimal computation of all tandem repeats in a weighted sequence,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0021-5
+180,Using the message passing algorithm on discrete data to detect faults in boolean regulatory networks,http://almob.biomedcentral.com/track/pdf/10.1186/s13015-014-0020-6
+181,Not assessing the efficiency of multiple sequence alignment programs,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-18
+182,RNA-RNA interaction prediction using genetic algorithm,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-17
+183,Enumerating all maximal frequent subtrees in collections of phylogenetic trees,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-16
+184,Computing the skewness of the phylogenetic mean pairwise distance in linear time,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-15
+185,Identification of alternative topological domains in chromatin,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-14
+186,Characterizing compatibility and agreement of unrooted trees via cuts in graphs,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-13
+187,MSARC: Multiple sequence alignment by residue clustering,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-12
+188,Mutual enrichment in ranked lists and the statistical assessment of position weight matrix motifs,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-11
+189,Predicting gene ontology annotations of orphan GWAS genes using protein-protein interactions,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-10
+190,Fast algorithms for approximate circular string matching,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-9
+191,Protein (multi-)location prediction: using location inter-dependencies in a probabilistic framework,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-8
+192,Simplified sequence-based method for ATP-binding prediction using contextual local evolutionary conservation,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-7
+193,Segmentor3IsBack: an R package for the fast and exact segmentation of Seq-data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-6
+194,Faster algorithms for RNA-folding using the Four-Russians method,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-5
+195,Assessing the efficiency of multiple sequence alignment programs,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-4
+196,Probabilistic approaches to alignment with tandem repeats,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-3
+197,Using cascading Bloom filters to improve the memory usage for de Brujin graphs,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-2
+198,A minimum-labeling approach for reconstructing protein networks across multiple conditions,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-9-1
+199,Probabilistic grammatical model for helix‐helix contact site classification,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-31
+200,On the protein folding problem in 2D-triangular lattices,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-30
+201,Data compression for sequencing data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-25
+202,Accelerating calculations of RNA secondary structure partition functions using GPUs,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-29
+203,Inferring species trees from incongruent multi-copy gene trees using the Robinson-Foulds distance,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-28
+204,Efficient edit distance with duplications and contractions,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-27
+205,Recursive algorithms for phylogenetic tree counting,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-26
+206,Asymptotic structural properties of quasi-random saturated structures of RNA,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-24
+207,Jaccard index based similarity measure to compare transcription factor binding site models,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-23
+208,Space-efficient and exact de Bruijn graph representation based on a Bloom filter,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-22
+209,DCJ-indel and DCJ-substitution distances with distinct operation costs,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-21
+210,Fast half-sibling population reconstruction: theory and algorithms,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-20
+211,MORPH-PRO: a novel algorithm and web server for protein morphing,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-19
+212,Extracting conflict-free information from multi-labeled trees,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-18
+213,Estimating population size via line graph reconstruction,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-17
+214,MCOIN: a novel heuristic for determining transcription factor binding site motif width,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-16
+215,An enhancement of binary particle swarm optimization for gene selection in classifying cancer classes,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-15
+216,LocARNAscan: Incorporating thermodynamic stability in sequence and structure-based RNA homology search,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-14
+217,Unrooted unordered homeomorphic subtree alignment of RNA trees,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-13
+218,Reconciliation and local gene tree rearrangement can be of mutual profit,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-12
+219,"Incompatible quartets, triplets, and characters",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-11
+220,Gene Ontology consistent protein function prediction: the FALCON algorithm applied to six eukaryotic genomes,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-10
+221,Coexpression and coregulation analysis of time-series gene expression data in estrogen-induced breast cancer cell,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-9
+222,Resolving spatial inconsistencies in chromosome conformation measurements,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-8
+223,Ultrametric networks: a new tool for phylogenetic analysis,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-7
+224,DCJ-Indel sorting revisited,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-6
+225,Protein Structure Idealization: How accurately is it possible to model protein structures with dihedral angles?,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-5
+226,Configurable pattern-based evolutionary biclustering of gene expression data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-4
+227,A mixed integer linear programming model to reconstruct phylogenies from single nucleotide polymorphism haplotypes under the maximum parsimony criterion,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-3
+228,Using graph models to find transcription factor modules: the hitting set problem and an exact algorithm,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-2
+229,The difficulty of protein structure alignment under the RMSD,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-8-1
+230,On the group theoretical background of assigning stepwise mutations onto phylogenies,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-36
+231,Invariant based quartet puzzling,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-35
+232,Alignment-free phylogeny of whole genomes using underlying subwords,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-34
+233,The space of phylogenetic mixtures for equivariant models,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-33
+234,Towards a practical O(n logn) phylogeny algorithm,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-32
+235,Gene tree correction for reconciliation and species tree inference,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-31
+236,Adaptive efficient compression of genomes,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-30
+237,Distributional fold change test – a statistical approach for detecting differential expression in microarray experiments,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-29
+238,On the combinatorics of sparsification,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-28
+239,Separating metagenomic short reads into genomes via clustering,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-27
+240,Constructing perfect phylogenies and proper triangulations for three-state characters,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-26
+241,Parsimonious reconstruction of network evolution,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-25
+242,Efficient procedures for the numerical simulation of mid-size RNA kinetics,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-24
+243,Finding driver pathways in cancer: models and algorithms,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-23
+244,Stochastic errors vs. modeling errors in distance based phylogenetic reconstructions,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-22
+245,Bootstrapping phylogenies inferred from rearrangement data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-21
+246,Direct vs 2-stage approaches to structured motif finding,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-20
+247,Getting DNA copy numbers without control samples,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-19
+248,Sampling solution traces for the problem of sorting permutations by signed reversals,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-18
+249,Fast structure similarity searches among protein models: efficient clustering of protein fragments,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-16
+250,Invariants and Other Structural Properties of Biochemical Models as a Constraint Satisfaction Problem,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-15
+251,Analysis of Metabolic Subnetworks by Flux Cone Projection,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-17
+252,Ubiquity of synonymity: almost all large binary trees are not uniquely identified by their spectra or their immanantal polynomials,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-14
+253,Tree-average distances on certain phylogenetic networks have their weights uniquely determined,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-13
+254,Fractal MapReduce decomposition of sequence alignment,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-12
+255,Wrapper-based selection of genetic features in genome-wide association studies through fast matrix operations,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-11
+256,Pattern matching through Chaos Game Representation: bridging numerical and discrete data structures for biological sequence analysis,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-10
+257,Maximum Parsimony on Phylogenetic networks,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-9
+258,Reconciling taxonomy and phylogenetic inference: formalism and algorithms for describing discord and inferring taxonomic roots,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-8
+259,A polynomial time algorithm for calculating the probability of a ranked gene tree given a species tree,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-7
+260,Computing evolutionary distinctiveness indices in large scale analysis,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-6
+261,A normalization strategy for comparing tag count data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-5
+262,TS-AMIR: a topology string alignment method for intensive rapid protein structure comparison,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-4
+263,MRL and SuperFine+MRL: new supertree methods,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-3
+264,A strand specific high resolution normalization method for chip-sequencing data employing multiple experimental control measurements,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-2
+265,QTL/microarray approach using pathway information,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-7-1
+266,A Partial Least Squares based algorithm for parsimonious variable selection,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-27
+267,ViennaRNA Package 2.0,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-26
+268,Comparative analysis of the quality of a global algorithm and a local algorithm for alignment of two sequences,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-25
+269,Random generation of RNA secondary structures according to native distributions,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-24
+270,ReCoil - an algorithm for compression of extremely large datasets of dna data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-23
+271,Multi-membership gene regulation in pathway based microarray analysis,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-22
+272,Exploiting bounded signal flow for graph orientation based on cause–effect pairs,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-21
+273,"Reducing the worst case running times of a family of RNA and CFG problems, using Valiant’s approach",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-20
+274,Prediction of plant promoters based on hexamers and random triplet pair analysis,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-19
+275,DeBi: Discovering Differentially Expressed Biclusters using a Frequent Itemset Approach,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-18
+276,"A new, fast algorithm for detecting protein coevolution using maximum compatible cliques",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-17
+277,Efficient unfolding pattern recognition in single molecule force spectroscopy data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-16
+278,A sub-cubic time algorithm for computing the quartet distance between two general trees,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-15
+279,A robust approach based on Weibull distribution for clustering gene expression data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-14
+280,GRISOTTO: A greedy approach to improve combinatorial algorithms for motif discovery with prior knowledge,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-13
+281,Sparse estimation for structural variability,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-12
+282,Listing all sorting reversals in quadratic time,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-11
+283,Haplotypes versus genotypes on pedigrees,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-10
+284,Estimation of alternative splicing isoform frequencies from RNA-Seq data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-9
+285,An FPT haplotyping algorithm on pedigrees with a small number of sites,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-8
+286,An experimental study of Quartets MaxCut and other supertree methods,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-7
+287,WildSpan: mining structured motifs from protein sequences,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-6
+288,Efficient algorithms for the discovery of gapped factors,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-5
+289,Fast local fragment chaining using sum-of-pair gap costs,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-4
+290,RNA Accessibility in cubic time,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-3
+291,WordCluster: detecting clusters of DNA words and genomic elements,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-2
+292,Speeding up the Consensus Clustering methodology for microarray data analysis,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-6-1
+293,Sparsification of RNA structure prediction including pseudoknots,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-39
+294,Efficient algorithms for training the parameters of hidden Markov models using stochastic expectation maximization (EM) training and Viterbi training,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-38
+295,Accuracy of phylogeny reconstruction methods combining overlapping gene data sets,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-37
+296,Module detection in complex networks using integer optimisation,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-36
+297,Estimating the evidence of selection and the reliability of inference in unigenic evolution,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-35
+298,Predicting direct protein interactions from affinity purification mass spectrometry data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-34
+299,Scoring function to predict solubility mutagenesis,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-33
+300,Gravitation field algorithm and its application in gene cluster,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-32
+301,Periodic pattern detection in sparse boolean sequences,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-31
+302,"Survival associated pathway identification with group L
+p
+ penalized global AUC maximization",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-30
+303,An automated stochastic approach to the identification of the protein specificity determinants and functional subfamilies,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-29
+304,Optimal selection of epitopes for TXP-immunoaffinity mass spectrometry,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-28
+305,Inverse folding of RNA pseudoknot structures,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-27
+306,On the use of cartographic projections in visualizing phylo-genetic tree space,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-26
+307,Polynomial algorithms for the Maximal Pairing Problem: efficient phylogenetic targeting on arbitrary trees,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-25
+308,AlignMiner: a Web-based tool for detection of divergent regions in multiple sequence alignments of conserved sequences,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-24
+309,Differential co-expression framework to quantify goodness of biclusters and compare biclustering algorithms,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-23
+310,Hierarchical folding of multiple sequence alignments for the prediction of structures and RNA-RNA interactions,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-22
+311,Sequence embedding for fast construction of guide trees for multiple sequence alignment,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-21
+312,Challenges in experimental data integration within genome-scale metabolic models,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-20
+313,Distinguishing between hot-spots and melting-pots of genetic diversity using haplotype connectivity,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-19
+314,Robinson-Foulds Supertrees,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-18
+315,Association of repeatedly measured intermediate risk factors for complex diseases with high dimensional SNP data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-17
+316,Jane: a new tool for the cophylogeny reconstruction problem,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-16
+317,Exact distribution of a pattern in a set of random sequences generated by a Markov source: applications to biological data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-15
+318,ANMM4CBR: a case-based reasoning method for gene expression data classification,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-14
+319,"A simple, practical and complete O
+
+
+-time Algorithm for RNA folding using the Four-Russians Speedup",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-13
+320,FlexSnap: Flexible Non-sequential Protein Structure Alignment,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-12
+321,Efficient algorithms for analyzing segmental duplications with deletions and inversions in genomes,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-11
+322,A markov classification model for metabolic pathways,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-10
+323,A tree-based method for the rapid screening of chemical fingerprints,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-9
+324,A simulation study comparing supertree and combined analysis methods using SMIDGen,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-8
+325,Linear-time protein 3-D structure searching with insertions and deletions,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-7
+326,Back-translation for discovering distant protein homologies in the presence of frameshift mutations,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-6
+327,Fast prediction of RNA-RNA interaction,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-5
+328,Mimosa: Mixture model of co-expression to detect modulators of regulatory interaction,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-4
+329,Phylogenetic comparative assembly,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-3
+330,Constructing majority-rule supertrees,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-2
+331,Refining transcriptional regulatory networks using network evolutionary models and gene histories,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-5-1
+332,An asymmetric approach to preserve common intervals while sorting by reversals,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-16
+333,Linear model for fast background subtraction in oligonucleotide microarrays,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-15
+334,"iTriplet, a rule-based nucleic acid sequence motif finder",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-14
+335,Grammatical-Restrained Hidden Conditional Random Fields for Bioinformatics applications,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-13
+336,Breaking the hierarchy - a new cluster selection mechanism for hierarchical clustering methods,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-12
+337,Modeling genetic imprinting effects of DNA sequences with multilocus polymorphism data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-11
+338,Tracking cells in Life Cell Imaging videos using topological alignments,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-10
+339,"Review of “Bioinformatics: A Computing Perspective” edited by Shuba Gopal, Anne Haake, Rhys Price Jones and Paul Tymann",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-9
+340,A polynomial time biclustering algorithm for finding approximate expression patterns in gene expression time series,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-8
+341,"Ranking differentially expressed genes from Affymetrix gene expression data: methods with reproducibility, sensitivity, and specificity",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-7
+342,Evolving DNA motifs to predict GeneChip probe performance,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-6
+343,A linear programming approach for estimating the structure of a sparse linear genetic network from transcript profiling data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-5
+344,An image processing approach to computing distances between RNA secondary structures dot plots,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-4
+345,Lossless filter for multiple repeats with bounded edit distance,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-3
+346,CHSMiner: a GUI tool to identify chromosomal homologous segments,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-2
+347,Auto-validating von Neumann rejection sampling from small phylogenetic tree spaces,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-4-1
+348,HuMiTar: A sequence-based method for prediction of human microRNA targets,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-16
+349,Stability of multiple alignments and phylogenetic trees: an analysis of ABC-transporter proteins family,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-15
+350,Syntenator: Multiple gene order alignments with a gene-specific scoring function,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-14
+351,Fast algorithms for computing sequence distances by exhaustive substring composition,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-13
+352,"""Hook""-calibration of GeneChip-microarrays: Theory and algorithm",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-12
+353,"""Hook""-calibration of GeneChip-microarrays: Chip characteristics and expression measures",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-11
+354,A stitch in time: Efficient computation of genomic DNA melting bubbles,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-10
+355,Metabolite-based clustering and visualization of mass spectrometry data using one-dimensional self-organizing maps,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-9
+356,A weighted average difference method for detecting differentially expressed genes from microarray data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-8
+357,Noisy: Identification of problematic columns in multiple sequence alignments,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-7
+358,DIALIGN-TX: greedy and progressive approaches for segment-based multiple sequence alignment,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-6
+359,On the optimality of the neighbor-joining algorithm,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-5
+360,Protein sequence and structure alignments within one framework,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-4
+361,A scoring matrix approach to detecting miRNA target sites,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-3
+362,Learning from positive examples when the negative class is undetermined- microRNA gene identification,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-2
+363,Reconstructing phylogenies from noisy quartets in polynomial time with a high success probability,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-3-1
+364,Evaluating deterministic motif significance measures in protein databases,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-16
+365,Efficient and accurate P-value computation for Position Weight Matrices,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-15
+366,"Review of ""Reconstructing Evolution: New mathematical and computational advances"" edited by Olivier Gascuel and Mike Steel",http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-14
+367,Exact p-value calculation for heterotypic clusters of regulatory motifs and its application in computational annotation of cis-regulatory modules,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-13
+368,Finding coevolving amino acid residues using row and column weighting of mutual information and multi-dimensional amino acid representation,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-12
+369,Mapping sequences by parts,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-11
+370,A basic analysis toolkit for biological sequences,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-10
+371,Local sequence alignments statistics: deviations from Gumbel statistics in the rare-event tail,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-9
+372,Consistency of the Neighbor-Net Algorithm,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-8
+373,Characteristics of predictor sets found using differential prioritization,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-7
+374,RNAstrand: reading direction of structured RNAs in multiple sequence alignments,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-6
+375,GOGOT: a method for the identification of differentially expressed fragments from cDNA-AFLP data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-5
+376,Data Mining in Bioinformatics (BIOKDD),http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-4
+377,A spatio-temporal mining approach towards summarizing and analyzing protein folding trajectories,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-3
+378,Transcriptional regulatory network discovery via multiple method integration: application to e. coli K12,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-2
+379,PhyloScan: identification of transcription factor binding sites using cross-species evidence,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-2-1
+380,Probability-based model of protein-protein interactions on biological timescales,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-25
+381,A novel functional module detection algorithm for protein-protein interaction networks,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-24
+382,Refining motifs by improving information content scores using neighborhood profile search,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-23
+383,SMOTIF: efficient structured pattern and profile motif search,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-22
+384,EXMOTIF: efficient structured motif extraction,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-21
+385,Reconstructing protein structure from solvent exposure using tabu search,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-20
+386,An enhanced RNA alignment benchmark for sequence alignment programs,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-19
+387,Computing distribution of scale independent motifs in biological sequences,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-18
+388,Pattern statistics on Markov chains and sensitivity to parameter estimation,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-17
+389,Fast calculation of the quartet distance between trees of arbitrary degrees,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-16
+390,Automatic layout and visualization of biclusters,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-15
+391,A phylogenetic generalized hidden Markov model for predicting alternatively spliced exons,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-14
+392,A combinatorial optimization approach for diverse motif finding applications,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-13
+393,The approximability of the String Barcoding problem,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-12
+394,Inverse bifurcation analysis: application to simple gene systems,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-11
+395,P-value based visualization of codon usage data,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-10
+396,On the maximal cliques in c-max-tolerance graphs and their application in clustering molecular sequences,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-9
+397,Analysis of computational approaches for motif discovery,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-8
+398,Decomposition of overlapping protein complexes: A graph theoretical method for analyzing static and dynamic protein associations,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-7
+399,Multiple sequence alignment with user-defined anchor points,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-6
+400,Effective p-value computations using Finite Markov Chain Imbedding (FMCI): application to local score and to pattern statistics,http://almob.biomedcentral.com/track/pdf/10.1186/1748-7188-1-5
