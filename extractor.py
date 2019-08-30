@@ -82,8 +82,11 @@ class journal():
 
 
 from tqdm import tqdm
+import os
+filers = os.listdir("./Links")
 
-for i in tqdm(range(len(journal_names))):
+
+for i in tqdm(range(len(filers)-1,len(journal_names))):
 	jour = journal(journal_names[i],journal_links[i])
 	jour.getsoup()
 	jour.getpages()
